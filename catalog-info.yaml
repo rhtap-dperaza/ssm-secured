@@ -18,6 +18,6 @@ metadata:
   tags: ["go", "sscs", "sbom", "acs"] 
 spec:
   type: service
-  owner: user:dperaza4dustbit 
+  owner: user:default/dperaza4dustbit
   lifecycle: experimental
  
